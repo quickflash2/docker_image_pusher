@@ -1,3 +1,4 @@
 docmost/docmost:latest
 redis:7.2-alpine
 postgres:16-alpine
+likeflyme/cloudbak
